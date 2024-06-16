@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\bin\Debug\net8.0\SecondSUm.exe
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\bin\Debug\net8.0\SecondSUm.deps.json
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\bin\Debug\net8.0\SecondSUm.runtimeconfig.json
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\bin\Debug\net8.0\SecondSUm.dll
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\bin\Debug\net8.0\SecondSUm.pdb
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\obj\Debug\net8.0\SecondSUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\obj\Debug\net8.0\SecondSUm.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\obj\Debug\net8.0\SecondSUm.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\obj\Debug\net8.0\SecondSUm.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\obj\Debug\net8.0\SecondSUm.dll
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\obj\Debug\net8.0\refint\SecondSUm.dll
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\obj\Debug\net8.0\SecondSUm.pdb
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\obj\Debug\net8.0\SecondSUm.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\SecondSUm\SecondSUm\obj\Debug\net8.0\ref\SecondSUm.dll
